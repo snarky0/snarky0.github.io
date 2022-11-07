@@ -124,7 +124,7 @@ body{
 }
 
 .bgphoto{
-  background-image: url("file:///C:/Users/snark/OneDrive - INSA Centre Val de Loire/Documents/SAE/104/imgs/cam.jpg");
+  background-image: url("file:///images\cam.jpg");
   background-size: cover;
 }
 
